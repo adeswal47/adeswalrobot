@@ -11,9 +11,9 @@
     "ffmpeg",
     "remote"
     ],
-  "success_url": "https://t.me/LazyDeveloper",
-  "website": "https://github.com/LazyDeveloperr",
-  "repository": "https://github.com/LazyDeveloperr/test100",
+  "success_url": "https://t.me/ankittdeswal",
+  "website": "https://github.com/adeswal47",
+  "repository": "https://github.com/adeswal47/adeswalrobot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": "27135074"
+      "value": "2116847288"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
@@ -51,7 +51,7 @@
     },
     "LAZY_DEVELOPER": {
       "description": "Give ADMIN id in this field ",
-      "value": "27135074",
+      "value": "2116847288",
       "required": true
     }
   },
