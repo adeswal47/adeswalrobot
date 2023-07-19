@@ -2,8 +2,6 @@
   "name": "X-URL-Uploader",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
-    "LazyDeveloper",
-    "LazyPrincess",
     "url-uploader-src",
     "downloader",
     "open",
@@ -23,19 +21,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6366986157:AAGd2p3BlCoEJqQ4p60dea22Ty_EWJNZX4s"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "27135074"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "a6cf4d1f22b3309a1a0f1fca040d03fb"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": ""
+      "value": "27135074"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
@@ -53,7 +51,7 @@
     },
     "LAZY_DEVELOPER": {
       "description": "Give ADMIN id in this field ",
-      "value": "",
+      "value": "27135074",
       "required": true
     }
   },
