@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
+# (c) ADeswal 
 
 # the logging things
 import logging
@@ -325,9 +325,9 @@ async def youtube_dl_call_back(bot, update):
             media_album_p = []
             if images is not None:
                 i = 0
-                caption = "© @LazyDeveloperr"
+                caption = "© @ankittdeswal"
                 if is_w_f:
-                    caption = "@LazyDeveloperr"
+                    caption = "@ankittdeswal"
                 for image in images:
                     if os.path.exists(str(image)):
                         if i == 0:
