@@ -8,7 +8,7 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "a6cf4d1f22b3309a1a0f1fca040d03fb")
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "27135074").split())
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "2116847288").split())
     # the download location, where the HTTP Server runs
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size
@@ -25,8 +25,8 @@ class Config(object):
     # maximum message length in Telegram
     MAX_MESSAGE_LENGTH = 40960
     # set timeout for subprocess
-    PROCESS_MAX_TIMEOUT = 3600
+    PROCESS_MAX_TIMEOUT = 360
     # watermark file
     DEF_WATER_MARK_FILE = "AD"
     #Admin id is stored in 
-    LAZY_DEVELOPER = set(int(x) for x in os.environ.get("ankittdeswal", "27135074").split())
+    DEVELOPER = set(int(x) for x in os.environ.get("ankittdeswal", "2116847288").split())
