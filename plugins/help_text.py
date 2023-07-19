@@ -50,7 +50,7 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/@ankittdeswal"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
+                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/ankittdeswal"),
                         InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/@ankittdeswal"),
                     ],
                     [InlineKeyboardButton("⭑𝚂 𝙾 𝙲 𝚒 𝙰 𝙻⭑", url="https://instagram.com/ankittdeswal")],
@@ -68,7 +68,7 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/@ankittdeswal"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
+                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@ankittdeswal"),
                         InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/@ankittdeswal"),
                     ],
                     [InlineKeyboardButton("⭑𝚂 𝙾 𝙲 𝚒 𝙰 𝙻⭑", url="https://instagram.com/ankittdeswal")],
